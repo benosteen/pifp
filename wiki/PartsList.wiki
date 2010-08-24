@@ -1,0 +1,13 @@
+#summary this page is for listing where to source rep rap parts for UK printers
+#labels pifp
+
+= Introduction =
+
+Add your content here.
+
+
+= Shopping List =
+
+List of parts and where to get them from:
+  * list item 1
+  * list item 2
