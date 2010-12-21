@@ -6,8 +6,16 @@
 Add your content here.
 
 
-= Shopping List =
+= Shopping List (Mendel) =
 
-List of parts and where to get them from:
-  * list item 1
-  * list item 2
+The RepRap site has a Bill of Materials for Mendel: http://reprap.org/wiki/Mendel_assembly_data_sheet (download the spreadsheet, and note that it contains several pages).
+
+
+
+= Suppliers we have used =
+
+* Farnel Electronic Components - (not the cheapest, but having lots from one source): M8 threaded rod, M8 stainless steel rod, toothed belts, hex head screws, nuts, washers, etc. (((TODO: add parts list from order)))
+* An alternative source for M8 threaded rod, and some of the other hardware, is Screwfix. (Just don't search for "studding")
+* Zapp Automation (http://www.slidesandballscrews.com/) - stepper motors
+* Park Industrial Supplies (eBay supplier: http://stores.ebay.co.uk/ParkIndustrial-Supplies) - bearings.  Good deals for packs of 10-off 624, packs of 4-off 608.
+* A promising source for electronics and special parts: http://www.mendel-parts.com/.  (I've not used these yet, but I probably will when they have Gen6 electronics available. 
