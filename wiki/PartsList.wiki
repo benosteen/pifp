@@ -3,12 +3,11 @@
 
 = Introduction =
 
-Add your content here.
-
+This page is for listing where to source !RepRap parts for UK printers
 
 = Shopping List (Mendel) =
 
-The RepRap site has a Bill of Materials for Mendel: http://reprap.org/wiki/Mendel_assembly_data_sheet (download the spreadsheet, and note that it contains several pages).
+The !RepRap site has a Bill of Materials for Mendel: http://reprap.org/wiki/Mendel_assembly_data_sheet (download the spreadsheet, and note that it contains several pages).
 
 See also:
 * http://reprap.org/wiki/Mendel_materials_procurement
