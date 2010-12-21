@@ -10,7 +10,8 @@ Add your content here.
 
 The RepRap site has a Bill of Materials for Mendel: http://reprap.org/wiki/Mendel_assembly_data_sheet (download the spreadsheet, and note that it contains several pages).
 
-
+See also:
+* http://reprap.org/wiki/Mendel_materials_procurement
 
 = Suppliers we have used =
 
